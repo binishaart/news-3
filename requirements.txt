@@ -1,0 +1,7 @@
+Flask==2.3.2
+gTTS==2.3.2
+moviepy==2.0.0
+Pillow==10.1.0
+gunicorn==21.2.0
+
+

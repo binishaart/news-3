@@ -1,0 +1,8 @@
+body { font-family: Arial; text-align: center; background: #f0f0f0; }
+.container { margin-top: 30px; }
+textarea { padding: 10px; margin: 10px 0; width: 80%; }
+button { padding: 10px 20px; }
+video { border: 2px solid #333; margin-top: 20px; border-radius: 5px; }
+
+
+
